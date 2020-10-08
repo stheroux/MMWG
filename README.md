@@ -1,5 +1,5 @@
-# MMWG
-Links for the California Molecular Methods Workgroup SOPs and feedback
+# MMWG SOPs
+Links for the California Molecular Methods Workgroup SOPs. Links to feedback forms are provided within the individual SOPs. 
 
 ## Links to SOPs 
 
