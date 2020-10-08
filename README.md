@@ -1,5 +1,5 @@
 # MMWG SOPs
-Links for the California Molecular Methods Workgroup SOPs. Links to feedback forms are provided within the individual SOPs. 
+Links for the California Molecular Methods Workgroup SOPs. Please contact [Susanna Theroux](mailto:susannat@sccwrp.org) with any questions. 
 
 ## Links to SOPs 
 
@@ -7,3 +7,6 @@ Links for the California Molecular Methods Workgroup SOPs. Links to feedback for
 2. [DNA sampling SOP for water](https://docs.google.com/document/d/1Zh6bwnF4Epd9K1Hbk0YUTS6Nx87yluLYJ3gsmRJBTqM/edit?usp=sharing)
 3. [Metadata reporting standards](https://docs.google.com/document/d/1F58dti1y3MR1s0ha6WZ4c-xUIP9nJwn4GwQzE_HLGQA/edit?usp=sharing)
 
+## Feedback 
+
+To provide feedback on these forms, please visit the feedback link provided within each SOP. 
